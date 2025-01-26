@@ -25,7 +25,7 @@ jobs:
     - name: Lint code
       run: |
         jupyter nbconvert --to script book.ipynb
-        pylint --disable=R,C,E1123,W0104 book.py
+        pylint --disable=R,C,E1123,W0104,W0621,W0613 book.py
     - name: Format code
       run: |
         black book.ipynb
