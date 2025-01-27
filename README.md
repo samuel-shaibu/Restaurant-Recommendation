@@ -1,3 +1,4 @@
+[![CI](https://github.com/samuel-shaibu/Restaurant-Recommendation/actions/workflows/makefile.yml/badge.svg)](https://github.com/samuel-shaibu/Restaurant-Recommendation/actions/workflows/makefile.yml)
 ---
 
 # **Restaurant Recommendation System**
